@@ -26,15 +26,6 @@
 
 This repo is a structured, portfolio-style write-up of SOC 2 Type II readiness work: a realistic (fictional) case study walking through control design, evidence collection, control testing, findings, and remediation tracking — the actual sequence a Compliance Manager runs through before an auditor ever shows up.
 
-## What's inside
-
-| Page | Contents |
-|---|---|
-| [🛡️ Controls](01-controls.md) | 4 controls mapped to SOC 2 Trust Services Criteria, each specific, measurable, and testable |
-| [📎 Evidence](02-evidence.md) | 5 evidence artifacts collected to support control testing |
-| [✅ Control Tests](03-control-tests.md) | 4 test records, each run against a defined sample, not a general check |
-| [🐞 Findings](04-findings.md) | 2 findings — only the gaps testing actually surfaced |
-| [📋 Tasks](05-tasks.md) | 4 remediation tasks tracking each finding to closure |
 
 ## How to read this
 
