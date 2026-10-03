@@ -1,8 +1,9 @@
 <div align="center">
 
-![DataFlow Analytics SOC 2 Banner](banner.png)
-
 # DataFlow Analytics — SOC 2 Type II Readiness
+
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/882c90fa-a553-4e46-b7cb-276460a88f9d" />
+
 
 ![Progress](https://img.shields.io/badge/Progress-In%20Progress-dbab09) ![SOC 2](https://img.shields.io/badge/-SOC%202%20Type%20II-informational) ![Trust Services Criteria](https://img.shields.io/badge/-Trust%20Services%20Criteria-informational)
 
